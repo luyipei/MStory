@@ -1,8 +1,8 @@
 {
   "dependencies": {
+    "cn.tuanjie.wx-uploader": "0.1.4",
+    "com.qq.weixin.minigame": "https://gitee.com/wechat-minigame/minigame-tuanjie-transform-sdk.git#v0.1.29",
     "com.unity.collab-proxy": "2.11.3",
-    "com.unity.entities": "1.3.15",
-    "com.unity.entities.graphics": "1.3.2",
     "com.unity.ide.rider": "3.0.36",
     "com.unity.ide.visualstudio": "2.0.22",
     "com.unity.ide.vscode": "1.2.5",

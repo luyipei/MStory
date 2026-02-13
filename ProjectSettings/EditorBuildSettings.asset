@@ -5,7 +5,27 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.scene
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Scenes/SceneTest.scene
+    guid: 29961a06dde4caf43b2de2f3d5cd87e8
+  - enabled: 1
+    path: Assets/Scene/TestScene.scene
+    guid: a7769bf4f7f07294c8b02393ea5f3232
+  m_BuildProfiles:
+  - enabled: 1
+    path: Assets/Settings/Build Profiles/New WeChat Profile.asset
+    guid: 6507e220e76e4604abb3fde2ca13507d
   m_configObjects: {}
+  m_SlimFeaturesWeixinMiniGame:
+    ACLDecompression: 0
+    AllocateOverhead: 1
+    DecompressASTC: 0
+    DecompressDXT: 0
+    DecompressETC: 1
+    FreeTypeSfntPng: 1
+    LightProbe: 2
+    RootMotion: 0
+    UseStringInternPool: 2
